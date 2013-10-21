@@ -2,6 +2,7 @@
 <title>Simon Gerber's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Investigator (Level 4)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Master Collector (Level 7)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Hunter (Level 4)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 </channel></rss>
