@@ -2,6 +2,7 @@
 <title>Simon Gerber's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Chimney Sweeper (Level 5)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Cathedral Worker (Level 3)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Apprentice Cathedral Worker (Level 2)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Investigator (Level 13)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Master Investigator (Level 12)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Master Investigator (Level 11)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
-<item><title>Master Investigator (Level 10)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 </channel></rss>
