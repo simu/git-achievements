@@ -2,6 +2,7 @@
 <title>Simon Gerber's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Pilgrim (Level 2)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Product Manager (Level 10)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Collector (Level 11)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Master Socialite (Level 10)</title><description>pushed a branch to a remote repository using git push</description></item>
@@ -21,5 +22,4 @@
 <item><title>Locksmith (Level 5)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
 <item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Apprentice Web Designer (Level 1)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
-<item><title>Apprentice Locksmith (Level 3)</title><description>Add Signed-off-by line at the end of the commit log message using git commit -s.</description></item>
 </channel></rss>
