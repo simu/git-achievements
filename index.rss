@@ -2,6 +2,7 @@
 <title>Simon Gerber's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Thug (Level 7)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Master Merchant (Level 7)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Tree Trimmer (Level 4)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Apprentice Pilgrim (Level 3)</title><description>Performed a rebase using git rebase --onto.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Hunter (Level 6)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Pilgrim (Level 2)</title><description>Performed a rebase using git rebase --onto.</description></item>
 <item><title>Master Product Manager (Level 10)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Collector (Level 11)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 </channel></rss>
